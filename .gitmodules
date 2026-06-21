@@ -12,4 +12,4 @@
 	url = https://github.com/decker-edu/reveal.js.git
 [submodule "third-party/MathJax"]
 	path = third-party/MathJax
-	url = git@github.com:mathjax/MathJax.git
+	url = https://github.com/mathjax/MathJax.git
